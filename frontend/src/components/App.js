@@ -1,10 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from 'react'
 
-const Button = ({ className, children }) => 
-  <button className={className}>{children}</button>
-
-const ButtonBlue = styled(Button)`color: blue`;
 
 function App() {
   return (
@@ -16,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
