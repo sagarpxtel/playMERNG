@@ -2,7 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './components/App'
 
-import "../src/styles/main.scss"
+import "../src/styles/main.scss" // all the styles are imported here.
+
 import * as serviceWorker from './serviceWorker'
 
 ReactDOM.render(

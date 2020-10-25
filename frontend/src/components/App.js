@@ -1,3 +1,4 @@
+//import all the components here (App.js)
 import React from 'react'
 
 
@@ -5,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ButtonBlue>Blue Button</ButtonBlue>
+        Hello World!
       </header>
     </div>
   );
