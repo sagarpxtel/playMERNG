@@ -1,6 +1,6 @@
 # playMERNG
 
-MongoDB, Express, ReactJS, NodeJS, ExpressJS, GraphQL
+MongoDB, ExpressJS, ReactJS, NodeJS, GraphQL
 
 ## Frontend
 
