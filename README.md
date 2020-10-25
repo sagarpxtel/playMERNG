@@ -4,8 +4,8 @@ MongoDB, ExpressJS, ReactJS, NodeJS, GraphQL
 
 ## Frontend
 
-- React
 - Sass/SCSS
+- React
 - React-Router, React-Redux
 - React-Spring
 
